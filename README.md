@@ -8,7 +8,7 @@ This project is built upon [SBBT_COV19D_2023](https://github.com/jesse1029/SBBT_
 a- Preprocessing/a-preprocessing.ipynb
 b- Preprocessing/b-filtering.ipynb
 
-2- Traing the modesl:
+2- Train the model:
 a- Training/training.ipynb
 
 3- Run the inference:
