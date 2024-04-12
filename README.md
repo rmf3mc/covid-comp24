@@ -1,4 +1,4 @@
-# covid24
+# `Paper:` "EfficientNet-SAM: A Novel EffecientNet with Spatial Attention Mechanism for COVID-19 Detection in Pulmonary CT Scans"
 
 ## Credits
 
