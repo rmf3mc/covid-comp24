@@ -1,7 +1,7 @@
 # `Paper:` "EfficientNet-SAM: A Novel EffecientNet with Spatial Attention Mechanism for COVID-19 Detection in Pulmonary CT Scans"
 
 ## Dependencies
-You will need to install the following dependencies in `requirements.txt` to run the implementation in this repository.
+You will need to install the dependencies in `requirements.txt` to run the implementation in this repository.
 
 ## Credits
 
