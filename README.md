@@ -7,12 +7,12 @@ You will need to install the following dependencies in `requirements.txt` to run
 
 This project is built upon [SBBT_COV19D_2023](https://github.com/jesse1029/SBBT_COV19D_2023) by Chih-Chung Hsu, Chih-Yu Jian, Chia-Ming Lee, Chi-Han Tsai, Sheng-Chieh Dai
 
-1- Run the preprocessing files:
-a- Preprocessing/a-preprocessing.ipynb
-b- Preprocessing/b-filtering.ipynb
+1. Run the preprocessing files:
+a. Preprocessing/a-preprocessing.ipynb
+b. Preprocessing/b-filtering.ipynb
 
-2- Train the model:
-a- Training/training.ipynb
+2. Train the model:
+Training/training.ipynb
 
-3- Run the inference:
+3. Run the inference:
 Inference/inference.ipynb
