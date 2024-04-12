@@ -6,10 +6,25 @@ You will need the following dependencies to run the implementation in this repos
 
 | **Package**               | **Version**                   |
 |---------------------------|-------------------------------|
-| Python                    | >= 3.7                        |
-| Pytorch                   | >= 1.12.0                     |
-| Numpy                     | >= 1.24.0                     |
-| Scipy                     | >= 1.10.0                     |
+| python                    | >= 3.7                        |
+| matplotlib                | >=3.5.2                       |     
+| numpy                     | >=1.24.4                      | 
+| Pillow                    | >=9.0.0                       |
+| progress                  | >=1.6                         |
+| ruamel.yaml               | >=0.17.21                     |
+| ruamel.yaml.clib          | >=0.2.6                       |
+| scikit-image              | >=0.19.3                      |
+| scikit-learn              | >=1.0.2                       |
+| scipy                     | >=1.10.0                      |
+| tensorboard               | >=2.9.1                       |
+| timm                      | >=0.5.4                       |
+| torch                     | >=1.12.0                      |
+| torchaudio                | >=0.12.0                      |
+| torchvision               | >=0.13.0                      |
+| tqdm                      | >=4.64.0                      |
+| transformers              | >=4.30.0                      |
+| wandb                     | 
+
 
 ## Credits
 
