@@ -34,15 +34,15 @@ The first step involves preparing your data. We provide notebooks for selecting 
 1. **Slice Selection**:
    Open and run the following notebook to select relevant slices:
    
-   ```
+   
    jupyter notebook step0/a-SliceSelection.ipynb
-   ```
+   
 
 2. **Filtering**:
    After selecting slices, filter the data using the next notebook:
-   ```
+   
    jupyter notebook step0/b-Filtering.ipynb
-   ```
+   
 
 ### Model Training
 
@@ -50,11 +50,10 @@ Once the data is prepared, proceed to train the model. The training process is m
 
 1. **Training**:
    Open and run the training notebook to start the model training process:
-   ```
+   
    jupyter notebook Training/Training.ipynb
-   ```
+   
 
-This notebook includes detailed instructions and configurations to train the EfficientNet-SAM model.
 
 ## Credits
 
