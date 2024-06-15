@@ -3,7 +3,7 @@
 
 ## Overview
 
-Welcome to the repository for the paper titled **"EfficientNet-SAM: A Novel EfficientNet with Spatial Attention Mechanism for COVID-19 Detection in Pulmonary CT Scans,"** presented at CVPR 2024. This project leverages the power of EfficientNet architecture enhanced with a Spatial Attention Mechanism (SAM) to accurately detect COVID-19 from pulmonary CT scans.
+Repository for the paper titled **"EfficientNet-SAM: A Novel EfficientNet with Spatial Attention Mechanism for COVID-19 Detection in Pulmonary CT Scans,"** presented at CVPR 2024. This project leverages the power of EfficientNet architecture enhanced with a Spatial Attention Mechanism (SAM) to detect COVID-19 from pulmonary CT scans.
 
 ## Dependencies
 
@@ -15,9 +15,10 @@ pip install -r requirements.txt
 
 ## Getting Started
 
-This section will guide you through setting up the environment and running the implementation in this repository. Follow these steps to get started with EfficientNet-SAM for COVID-19 detection:
+This section for setting up the environment and running the implementation in this repository:
 
 1. **Clone the Repository**: Start by cloning this repository to your local machine:
+
    ```bash
    git clone https://github.com/rmf3mc/covid-comp24
    cd EfficientNet-SAM
