@@ -1,26 +1,23 @@
-# `Paper:` "EfficientNet-SAM: A Novel EffecientNet with Spatial Attention Mechanism for COVID-19 Detection in Pulmonary CT Scans"
+# `Paper:` "EfficientNet-SAM: A Novel EffecientNet with Spatial Attention Mechanism for COVID-19 Detection in Pulmonary CT Scans", CVPR, 2024
 
 ## Dependencies
 You will need to install the dependencies in `requirements.txt` to run the implementation in this repository.
 
 ## Credits
 
-This project is built upon [SBBT_COV19D_2023](https://github.com/jesse1029/SBBT_COV19D_2023) by Chih-Chung Hsu, Chih-Yu Jian, Chia-Ming Lee, Chi-Han Tsai, Sheng-Chieh Dai
+This project is built upon [SBBT_COV19D_2023](https://github.com/jesse1029/SBBT_COV19D_2023) by Chih-Chung Hsu
 
-1. Run the preprocessing files:
+1. Run the step0 files:
 ```
-Preprocessing/a-preprocessing.ipynb
+step0/a-SliceSelection.ipynb
 ```
 ```
-Preprocessing/b-filtering.ipynb
+step0/b-Filtering.ipynb
 ```
 
 2. Train the model:
 ```
-Training/training.ipynb
+Training/Training.ipynb
 ```
 
-3. Run the inference:
-```
-Inference/inference.ipynb
-```
+
