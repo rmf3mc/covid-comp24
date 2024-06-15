@@ -58,4 +58,4 @@ Once the data is prepared, proceed to train the model. The training process is m
 
 ## Credits
 
-This project builds upon the foundational work by Chih-Chung Hsu in [SBBT_COV19D_2023](https://github.com/jesse1029/SBBT_COV19D_2023). We express our gratitude for their contributions which significantly inspired and facilitated the development of this project.
+This project builds upon the work of Chih-Chung Hsu et al. in [SBBT_COV19D_2023](https://github.com/jesse1029/SBBT_COV19D_2023), winners of last year's competition. We express our gratitude for their contributions, which significantly inspired and facilitated the development of this project.
